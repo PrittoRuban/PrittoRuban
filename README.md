@@ -1,4 +1,4 @@
-- ### 👋 Hi, I’m Pritto Ruban, Great to see you here 💫
+### 👋 Hi, I’m Pritto Ruban, Great to see you here 💫
 
 - 👀 *I’m interested in **Web Development...** and **Cyber Security***
 - 🌱 *I’m currently learning Coding languages, Persuing my B.E degree...*
