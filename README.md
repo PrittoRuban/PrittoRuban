@@ -1,5 +1,10 @@
 - ### 👋 Hi, I’m Pritto Ruban, Great to see you here 💫
 
+- 👀 *I’m interested in **Web Development...** and **Cyber Security***
+- 🌱 *I’m currently learning Coding languages, Persuing my B.E degree...*
+- 💞️ *I’m looking to use my skills....*
+- 📫 *How to reach me? [LinkedIn](https://www.linkedin.com/in/r-pritto-ruban-0b1290289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)😉*
+
 ```py
 while(alive){
    (!Do False); Do True;
