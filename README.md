@@ -3,18 +3,16 @@
 - 👀 *I’m interested in **Web Development** and **Cyber Security***
 - 🌱 *I’m currently learning Coding languages, Persuing my B.E degree...*
 - 💞️ *I’m looking to learn DSA....*
-- 📫 *How to reach me?  [LinkedIn](https://www.linkedin.com/in/r-pritto-ruban-0b1290289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [Twitter](https://twitter.com/PrittoRuban?s=09)😉*
-- 📫 How to reach me **prittoruban@gmail.com**
+- 📫 *How to reach me **prittoruban@gmail.com**😉*
+
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prittoruban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prittoruban" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/r-pritto-ruban-0b1290289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r-pritto-ruban" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22302751/pritto-ruban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22302751/pritto-ruban" height="30" width="40" /></a>
-<a href="https://fb.com/prittoruban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prittoruban" height="30" width="40" /></a>
-<a href="https://instagram.com/pritto_ruban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritto_ruban" height="30" width="40" /></a>
-</p>
+
 
 
 ```py
