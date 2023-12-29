@@ -56,7 +56,7 @@ achieveTheImpossible();
 
 
 
-
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/pritcy026?ext=heatmap) 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prittoruban&show_icons=true&locale=en&layout=compact" alt="prittoruban" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prittoruban&show_icons=true&locale=en" alt="prittoruban" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prittoruban&" alt="prittoruban" /></p>
