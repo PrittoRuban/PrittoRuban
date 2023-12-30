@@ -5,7 +5,7 @@
 
 
 
-<p><img src="https://private-user-images.githubusercontent.com/95075378/239178237-ab73d076-fa83-48da-a2ee-14510cd73882.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM4OTQxMTUsIm5iZiI6MTcwMzg5MzgxNSwicGF0aCI6Ii85NTA3NTM3OC8yMzkxNzgyMzctYWI3M2QwNzYtZmE4My00OGRhLWEyZWUtMTQ1MTBjZDczODgyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI5VDIzNTAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1MjNiNTI0MmI5NzMyMzMxNjQ1YWU4MGM0YzJjZWUyYzZkY2E3MTkyYTdiNWM0MzYwM2Y5MDhiN2NjZTE0MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wkFrfBYKL0DXhYwYmPD3A26fRYb5_UI1WgWmPKajm7g"</p>
+
 
 
 - 👀 *I’m interested in **Web Development** and **Cyber Security***
@@ -13,6 +13,11 @@
 - 💞️ *I’m looking to learn DSA....*
 - 💖 *Loves to learn new things*
 - 📫 *How to reach me **prittoruban@gmail.com**😉*
+
+
+
+
+<p><img src="https://private-user-images.githubusercontent.com/95075378/239178237-ab73d076-fa83-48da-a2ee-14510cd73882.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM4OTQxMTUsIm5iZiI6MTcwMzg5MzgxNSwicGF0aCI6Ii85NTA3NTM3OC8yMzkxNzgyMzctYWI3M2QwNzYtZmE4My00OGRhLWEyZWUtMTQ1MTBjZDczODgyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI5VDIzNTAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1MjNiNTI0MmI5NzMyMzMxNjQ1YWU4MGM0YzJjZWUyYzZkY2E3MTkyYTdiNWM0MzYwM2Y5MDhiN2NjZTE0MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wkFrfBYKL0DXhYwYmPD3A26fRYb5_UI1WgWmPKajm7g"</p>
 
 
 
@@ -92,6 +97,7 @@ achieveTheImpossible();
 </html>
 
 
+<p align="left"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
 
 
 
@@ -110,7 +116,7 @@ achieveTheImpossible();
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prittoruban" alt="prittoruban" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
+
 </details>
 
 
