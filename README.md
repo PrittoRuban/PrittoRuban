@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi👋, I'm <i>Pritto Ruban</i></h1>
+<h1 align="center"> Hi there 👋 It's me Pritto Ruban</h1>
 <h3 align="center"><i>Great to see you here 💫</i></h3>
 
 
@@ -15,8 +15,8 @@
 - 📫 *How to reach me **prittoruban@gmail.com**😉*
 
 
-<br>
 
+<p>Computer Science Engineering Student</p>
 <p><img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRqZmdlrWZpaWU.jpg"</p>
 
 
