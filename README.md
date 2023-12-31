@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi👋, I'm Pritto Ruban</h1>
-<h3 align="center">Great to see you here 💫</h3>
+<h1 align="center">Hi👋, I'm <i>Pritto Ruban</i></h1>
+<h3 align="center"><i>Great to see you here 💫</i></h3>
 
 
 
