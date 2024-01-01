@@ -34,7 +34,7 @@
 
 ```js
 function achieveTheImpossible() {
-    let challenges = [], obstacles = [], goals = [];
+    let challenges = [], goals = [];
 
     while (challenges.length) {
         challenges.forEach(challenge => console.log(`Overcoming challenge: ${challenge}`));
