@@ -37,9 +37,11 @@ function achieveTheImpossible() {
     let challenges = [], goals = [];
 
     while (challenges.length) {
-        challenges.forEach(challenge => console.log(`Overcoming challenge: ${challenge}`));
+        challenges.forEach(challenge =>
+        console.log(`Overcoming challenge: ${challenge}`));
 
-        if (goals.some(goal => !isGoalAchieved(goal))) goals.forEach(goal => console.log("Striving for goal: ${goal}"));
+        if (goals.some(goal => !isGoalAchieved(goal))) goals.forEach(goal =>
+        console.log("Striving for goal: ${goal}"));
         else return celebrateSuccess();
 
         if (newChallengesArise()) brainstormSolutions();
