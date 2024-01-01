@@ -17,7 +17,7 @@
 
 
 <h4>Computer Science Engineering Student</h4>
-<p><i>1000+ Programs solved in skillrack</i></p>
+<p>1000+ Programs solved in skillrack</p>
 <p align="left">
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif"> </p>
 <p><img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRqZmdlrWZpaWU.jpg"</p>
