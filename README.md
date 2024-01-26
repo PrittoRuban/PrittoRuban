@@ -16,10 +16,12 @@
 
 
 
-<h4>Computer Science Engineering Student</h4>
+
 <p><b>1000+ Programs solved in SkillRack</b></p>
+
 <p align="left">
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" > </p>
+<h4>Computer Science Engineering Student</h4>
 
 
 <p><img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRqZmdlrWZpaWU.jpg"</p>
@@ -28,8 +30,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prittoruban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prittoruban" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pritto-ruban-0b1290289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r-pritto-ruban" height="30" width="40" /></a>
+<a href="https://twitter.com/prittoruban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prittoruban" height="40" width="40" /></a>
+<a href="https://www.instagram.com/prittorubanofficial?igsh=ODhxZjQ5YW5nbG9h" target="blank"><img align="center" src="https://th.bing.com/th/id/R.03f40b67b63d9c1c1a5a792109bbc699?rik=8HhXk%2b5PP7XurQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2finstagram%2finstagram_PNG10.png&ehk=%2f7%2ftghrL31GFpelB7DZvprao8IZHRvmhi0BpDsEAZgI%3d&risl=&pid=ImgRaw&r=0" alt="r-pritto-ruban" height="35" width="40" /></a>
+</p>
 
 
 
@@ -96,11 +100,10 @@ achieveTheImpossible();
 
 
 
-
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prittoruban&show_icons=true&locale=en&layout=compact" alt="prittoruban" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prittoruban&show_icons=true&locale=en" alt="prittoruban" /></p>
-
-
+ ![PrittoRuban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrittoRuban&theme=tokyonight&hide_border=true)
+ ![PrittoRuban's Stats](https://github-readme-stats.vercel.app/api?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+ ![PrittoRuban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+ 
 
 
 </html>
@@ -121,9 +124,8 @@ achieveTheImpossible();
 
 - Let's connect and embark on a shared exploration of the vast possibilities that arise at the intersection of innovation and security. Together, we can shape a future where technology not only dazzles with creativity but also stands resilient against cyber challenges."
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prittoruban" alt="prittoruban" /></a> </p>
 
 
 </details>
