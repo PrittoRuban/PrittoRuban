@@ -17,7 +17,7 @@
 
 
 
-<p><b>1000+ Programs solved in SkillRack</b></p>
+<p><b>1500+ Programs solved in SkillRack and 20+ Certificates</b></p>
 
 <p align="left">
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" > </p>
