@@ -9,8 +9,8 @@
 
 
 - 👀 *I’m interested in **Web Development** and **Block Chain***
-- 🌱 *I’m currently learning Coding languages, Persuing my B.E degree...*
-- 💞️ *I’m looking to learn DSA....*
+- 🌱 *I’m currently learning Coding languages, DSA, Persuing my B.E degree...*
+- 💞️ *I’m looking to learn Block Chain....*
 - 💖 *Loves to learn new things*
 - 📫 *How to reach me **prittoruban@gmail.com**😉*
 
