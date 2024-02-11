@@ -38,9 +38,6 @@
 
 
 
-
-
-
     
 ```js
 function achieveTheImpossible() {
