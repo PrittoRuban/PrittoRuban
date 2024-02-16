@@ -86,7 +86,6 @@ achieveTheImpossible();
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
     <img src="https://th.bing.com/th/id/OIP.5YUBp2beGBJhAO9RglmGnwHaFg?rs=1&pid=ImgDetMain" alt="replit-icon" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="50" height="50"/>
 </p>
 
 
