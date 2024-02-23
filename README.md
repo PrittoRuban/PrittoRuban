@@ -7,7 +7,6 @@
 
 
 
-
 - 👀 *I’m interested in **Web Development** and **Block Chain***
 - 🌱 *I’m currently learning Coding languages, DSA, Persuing my B.E degree...*
 - 💞️ *I’m looking to learn Block Chain....*
