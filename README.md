@@ -68,6 +68,7 @@ achieveTheImpossible();
     <img src="https://velog.velcdn.com/images/fervor_dev/post/063202f7-ac63-49d9-ba7a-1fc9fb003adf/image.png" alt="tailwind css" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express-js-icon" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
@@ -80,11 +81,12 @@ achieveTheImpossible();
 </p>
 <h3 align="left"> Tools I use:</h3>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+    <img src="https://th.bing.com/th/id/R.9f6038f8ae674f6ec7b8aab72be665e2?rik=Wrh64mHaWbaAjA&riu=http%3a%2f%2fscarpie.altervista.org%2fwp-content%2fuploads%2f2018%2f11%2f1200px-Visual_Studio_Code_1.35_icon.svg_-960x960.png&ehk=x3wZGvsFJe1sxbeaugICOhq46xiuEsPjs%2fHzT%2bqlU78%3d&risl=&pid=ImgRaw&r=0" alt="vscode" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman-icon" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-    <img src="https://th.bing.com/th/id/OIP.5YUBp2beGBJhAO9RglmGnwHaFg?rs=1&pid=ImgDetMain" alt="replit-icon" width="50" height="50"/>
+    <img src="https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png" alt="figma-icon" width="50" height="50"/>
+    <img src="https://i1.wp.com/img.olhardigital.com.br/wp-content/uploads/2023/03/editor-de-codigo-fonte-replit.png?resize=780,470" alt="replit-icon" width="60" height="50"/> 
 </p>
 
 
