@@ -94,8 +94,10 @@ achieveTheImpossible();
 
  ![PrittoRuban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrittoRuban&theme=tokyonight&hide_border=true)
  ![PrittoRuban's Stats](https://github-readme-stats.vercel.app/api?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrittoRuban&theme=tokyonight&hide_border=true" style="margin-right:100px"/>
  ![PrittoRuban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrittoRuban&theme=tokyonight&hide_border=true)
+ 
  
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight" alt="prittoruban" /> </p>
