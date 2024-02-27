@@ -6,7 +6,6 @@
 
 
 
-
 - 👀 *I’m interested in **Full-Stack Development** and **Block Chain***
 - 🌱 *I’m currently learning Coding languages, DSA, Persuing my B.E degree...*
 - 💞️ *I’m looking to learn Block Chain....*
@@ -16,11 +15,12 @@
 
 
 
-<p><b>1500+ Programs solved in SkillRack and 20+ Certificates</b></p>
+<p align="center"><b>1500+ Programs solved in SkillRack and 20+ Certificates 🏆</b></p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777" target="_blank"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" > </p>
-<h4>Computer Science Engineering Student</h4>
+    
+<h2 align="center">Computer Science Engineering Student 🧑‍💻</h2>
 
 
 <p><img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRqZmdlrWZpaWU.jpg"</p>
@@ -95,28 +95,19 @@ achieveTheImpossible();
  ![PrittoRuban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrittoRuban&theme=tokyonight&hide_border=true)
  ![PrittoRuban's Stats](https://github-readme-stats.vercel.app/api?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
  ![PrittoRuban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
  
 
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight" alt="prittoruban" /> </p>
 <p align="center"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
 
 
 
 <details>
 <summary> Click for more Information </summary>
-  
-- "Passionate engineering enthusiast dedicated to mastering the intricacies of Computer Science Engineering(Cyber Security). Currently embarking on a transformative journey towards excellence as a R.M.K College of Engineering and Technology student, driven to innovate and contribute meaningfully to the world of technology."
 
-- "As a passionate individual fascinated by the synergy between web development and cybersecurity, I am on a relentless journey to craft robust digital solutions in the ever-evolving tech landscape. I thrive on the dynamic challenge of seamlessly integrating creativity and security in the realm of web development.
-
-- I am committed to staying at the forefront of technological advancements, constantly expanding my knowledge and skills to contribute meaningfully to the web development.
-
-- Let's connect and embark on a shared exploration of the vast possibilities that arise at the intersection of innovation and security. Together, we can shape a future where technology not only dazzles with creativity but also stands resilient against cyber challenges."
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+Passionate engineering enthusiast dedicated to mastering the intricacies of Computer Science Engineering(Cyber Security). Currently embarking on a transformative journey towards excellence as a R.M.K College of Engineering and Technology student, driven to innovate and contribute meaningfully to the world of technology.
 
 </details>
 
