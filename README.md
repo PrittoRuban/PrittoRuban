@@ -15,9 +15,9 @@
 
 
 
-<p align="center"><b>1500+ Programs solved in SkillRack and 20+ Certificates 🏆</b></p>
+<p align="left"><b>1500+ Programs solved in SkillRack and 20+ Certificates 🏆</b></p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777" target="_blank"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" > </p>
     
 <h2 align="center">Computer Science Engineering Student 🧑‍💻</h2>
@@ -104,7 +104,7 @@ achieveTheImpossible();
 
 
 
-<details>
+<details align="center">
 <summary> Click for more Information </summary>
 
 Passionate engineering enthusiast dedicated to mastering the intricacies of Computer Science Engineering(Cyber Security). Currently embarking on a transformative journey towards excellence as a R.M.K College of Engineering and Technology student, driven to innovate and contribute meaningfully to the world of technology.
