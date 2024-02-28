@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hi there 👋 It's me Pritto Ruban</h1>
 <h3 align="center"><i>Great to see you here 💫</i></h3>
 
