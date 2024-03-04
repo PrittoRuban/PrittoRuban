@@ -2,15 +2,11 @@
 <h3 align="center"><i>Great to see you here 💫</i></h3>
 
 
-
-
 - 👀 *I’m interested in **Full-Stack Development** and **Block Chain***
 - 🌱 *I’m currently learning Coding languages, DSA, Persuing my B.E degree...*
 - 💞️ *I’m looking to learn Block Chain....*
 - 💖 *Loves to learn new things*
 - 📫 *How to reach me **prittoruban@gmail.com**😉*
-
-
 
 
 <p align="left"><b>1500+ Programs solved in SkillRack and 20+ Certificates 🏆</b></p>
