@@ -16,10 +16,9 @@
     
 <h2 align="center">Computer Science Engineering Student 🧑‍💻</h2>
 
-
-<p><img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRqZmdlrWZpaWU.jpg"</p>
-
-
+<p align = "center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
