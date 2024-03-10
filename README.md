@@ -82,15 +82,17 @@ achieveTheImpossible();
     <img src="https://i1.wp.com/img.olhardigital.com.br/wp-content/uploads/2023/03/editor-de-codigo-fonte-replit.png?resize=780,470" alt="replit-icon" width="60" height="50"/> 
 </p>
 
-
+ <details align="center">
+ <summary><b>GitHub Stats</b></summary>
 
  ![PrittoRuban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrittoRuban&theme=tokyonight&hide_border=true)
  ![PrittoRuban's Stats](https://github-readme-stats.vercel.app/api?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrittoRuban&theme=tokyonight&hide_border=true)
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrittoRuban&theme=tokyonight&hide_border=true" style="margin-right:100px"/>
  ![PrittoRuban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrittoRuban&theme=tokyonight&hide_border=true)
  
  
+ </details>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight" alt="prittoruban" /> </p>
 <p align="center"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
