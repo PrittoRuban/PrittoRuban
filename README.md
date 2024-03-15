@@ -89,8 +89,7 @@ achieveTheImpossible();
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrittoRuban&theme=tokyonight&hide_border=true" style="margin-right:100px"/>
  ![PrittoRuban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
  
- 
- </details>
+</details>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight" alt="prittoruban" /> </p>
 <p align="center"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
