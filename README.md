@@ -3,28 +3,6 @@
 
 
 
-<div align=center>
-   <a href="https://github.com/prittoruban" target="_blank">
-   <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/sabyasachi-seal/sabyasachi-seal/ouput/coder2.gif" /></a>
-   <h4>
-      🌱 I’m mostly interested in:
-      <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Full+Stack+Development;Cyber+Security;Block+Chain;" /></a>
-       <br>
-      👯 I’m looking to collaborate on:
-      <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Prompt+Engineering;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
-      <br>
-      💬 Talk to me all about:
-      <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
-      <br>
-   </h4>
-</div>
-
-
-
-
 - 👀 *I’m interested in **Full-Stack Block Chain Development***
 - 🌱 *I’m currently learning **Coding languages, DSA**, Persuing my **B.E degree**...*
 - 💞️ *I’m looking to learn **Block Chain**....*
