@@ -50,8 +50,6 @@ achieveTheImpossible();
 ```
 
 
-
-
 <h3 align="left">I code in:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
