@@ -2,7 +2,6 @@
 <h3 align="center"><i>Great to see you here 💫</i></h3>
 
 
-
 - 👀 *I’m interested in **Full-Stack Block Chain Development***
 - 🌱 *I’m currently learning **Coding languages, DSA**, Persuing my **B.E degree**...*
 - 💞️ *I’m looking to learn **Block Chain**....*
