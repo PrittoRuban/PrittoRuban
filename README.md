@@ -2,9 +2,9 @@
 <h3 align="center"><i>Great to see you here 💫</i></h3>
 
 
-- 👀 *I’m interested in **Full-Stack Block Chain Development***
-- 🌱 *I’m currently learning **Coding languages, DSA**, Persuing my **B.E degree**...*
-- 💞️ *I’m looking to learn **Block Chain**....*
+- 👀 *I’m interested in **Full-Stack Development** and **Block Chain***
+- 🌱 *I’m currently learning **DSA** and Persuing my **B.E degree**...*
+- 💞️ *I wish to explore all **Technologies**....*
 - 💖 *Loves to learn new things*
 - 📫 *How to reach me **prittoruban@gmail.com**😉*
 
@@ -12,7 +12,8 @@
 
 <p align="left">
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777" target="_blank"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" > </p>
-    
+
+
 <h2 align="center">Computer Science Engineering Student 🧑‍💻</h2>
 
 <p align = "center">
