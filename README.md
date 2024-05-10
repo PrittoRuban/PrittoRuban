@@ -61,6 +61,7 @@ achieveTheImpossible();
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+    <img src="https://cdn-images-1.medium.com/max/480/1*2YG993b8WrHwvmAe7WckAA.png" alt="redux-toolkit" width="50" height="50"/>
 </p>
 <h3 align="left"> Tools I use:</h3>
 <p>
@@ -69,8 +70,11 @@ achieveTheImpossible();
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
     <img src="https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png" alt="figma-icon" width="50" height="50"/>
-    <img src="https://i1.wp.com/img.olhardigital.com.br/wp-content/uploads/2023/03/editor-de-codigo-fonte-replit.png?resize=780,470" alt="replit-icon" width="60" height="50"/> 
+    <img src="https://i1.wp.com/img.olhardigital.com.br/wp-content/uploads/2023/03/editor-de-codigo-fonte-replit.png?resize=780,470" alt="replit-icon" width="60" height="50"/>
 </p>
+
+
+
 
  <details align="center">
  <summary><b>GitHub Stats</b></summary>
