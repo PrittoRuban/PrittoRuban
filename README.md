@@ -74,7 +74,6 @@ achieveTheImpossible();
 </p>
 
 
-
  <details align="center">
  <summary><b>GitHub Stats</b></summary>
 
