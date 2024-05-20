@@ -93,7 +93,13 @@ achieveTheImpossible();
 <details align="center">
 <summary> Click for more Information </summary>
 
-Passionate engineering enthusiast dedicated to mastering the intricacies of Computer Science Engineering(Cyber Security). Currently embarking on a transformative journey towards excellence as a R.M.K College of Engineering and Technology student, driven to innovate and contribute meaningfully to the world of technology.
+⚡𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲, 𝐚𝐬 𝐚 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐑.𝐌.𝐊 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐨𝐟 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐈 𝐚𝐦 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 𝐨𝐟 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠.
+
+🧑🏻‍💻𝐈 𝐚𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐚𝐭𝐭𝐞𝐧𝐝𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐜𝐨𝐝𝐢𝐧𝐠 𝐞𝐯𝐞𝐧𝐭𝐬 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐟𝐫𝐨𝐦 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐞𝐱𝐩𝐞𝐫𝐭𝐬 𝐚𝐧𝐝 𝐬𝐭𝐚𝐲 𝐮𝐩-𝐭𝐨-𝐝𝐚𝐭𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐭𝐫𝐞𝐧𝐝𝐬 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐢𝐞𝐥𝐝.
+
+💡𝐈 𝐚𝐦 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐭𝐨 𝐦𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐟𝐢𝐞𝐥𝐝 𝐚𝐧𝐝 𝐝𝐫𝐢𝐯𝐞𝐧 𝐭𝐨 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐞 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥𝐥𝐲 𝐭𝐨 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲.
+
+🫱🏻‍🫲🏻 𝐋𝐞𝐭'𝐬 𝐠𝐞𝐭 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝
 
 </details>
 
