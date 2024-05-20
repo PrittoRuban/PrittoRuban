@@ -74,10 +74,10 @@ achieveTheImpossible();
 </p>
 
 
+
  <details align="center">
  <summary><b>GitHub Stats</b></summary>
-
- ![PrittoRuban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrittoRuban&theme=tokyonight&hide_border=true)
+     
  ![PrittoRuban's Stats](https://github-readme-stats.vercel.app/api?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrittoRuban&theme=tokyonight&hide_border=true)
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrittoRuban&theme=tokyonight&hide_border=true" style="margin-right:100px"/>
