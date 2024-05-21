@@ -78,20 +78,18 @@ achieveTheImpossible();
 </p>
 
 
-
- <details align="center">
- <summary><b>GitHub Stats</b></summary>
-     
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+    
  ![PrittoRuban's Stats](https://github-readme-stats.vercel.app/api?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrittoRuban&theme=tokyonight&hide_border=true)
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrittoRuban&theme=tokyonight&hide_border=true" style="margin-right:100px"/>
  ![PrittoRuban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrittoRuban&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrittoRuban&theme=tokyonight&hide_border=true)
  
-</details>
+</div>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight" alt="prittoruban" /> </p>
 <p align="center"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
+
 
 
 <details align="center">
