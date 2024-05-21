@@ -1,6 +1,10 @@
-<h1 align="center"> Hi there 👋 It's me Pritto Ruban</h1>
+<h1 align="center">
+    Hi there 👋 It's me Pritto Ruban
+    <p><img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
+</h1>
 <h3 align="center"><i>Great to see you here 💫</i></h3>
 
+<br>
 
 - 👀 *I’m interested in **Full-Stack Development** and **Block Chain***
 - 🌱 *I’m currently learning **DSA** and Persuing my **B.E degree**...*
