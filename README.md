@@ -6,7 +6,6 @@
 
 <br>
 
-
 - 👀 *I’m interested in **Full-Stack Development** and **Block Chain***
 - 🌱 *I’m currently learning **DSA** and Persuing my **B.E degree**...*
 - 💞️ *I wish to explore all **Technologies**....*
