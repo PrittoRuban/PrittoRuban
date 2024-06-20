@@ -19,7 +19,6 @@
 
 <h2 align="center">Computer Science Engineering Student 🧑‍💻</h2>
 
-
 <p align="left"> <h3>About: </h3>
     <ul>
         <li>
