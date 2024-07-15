@@ -108,6 +108,8 @@ achieveTheImpossible();
 <p align="center"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
 
 
+<img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/waves.svg" >
+
 <!---
 
 <details align="center">
