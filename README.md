@@ -7,15 +7,15 @@
 <br>
 
 - 👀 *I’m interested in **Full-Stack Development** and **Block Chain***
-- 🌱 *I’m currently learning **DSA** and Persuing my **B.E degree**...*
-- 💞️ *I wish to explore all **Technologies**....*
-- 💖 *Loves to learn new things*
-- 📫 *How to reach me **prittoruban@gmail.com**😉*
+- 🌱 _I’m currently learning **DSA** and Persuing my **B.E degree**..._
+- 💞️ _I wish to explore all **Technologies**...._
+- 💖 _Loves to learn new things_
+- 📫 _How to reach me **prittoruban@gmail.com**😉_
 
 <p align="left"><b>1500+ Programs solved in SkillRack and 20+ Certificates 🏆</b></p>
 
 <p align="left">
-<a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777" target="_blank"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" > </p>
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777" target="_blank"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" ></a> </p>
 
 <h2 align="center">Computer Science Engineering Student 🧑‍💻</h2>
 
@@ -38,8 +38,6 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="">
 </p>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prittoruban" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r-pritto-ruban" height="30" width="40" /></a>
@@ -50,17 +48,21 @@
 
 ```js
 function achieveTheImpossible() {
-    let challenges = [], goals = [];
+  let challenges = [],
+    goals = [];
 
-    while (challenges.length) {
-        challenges.forEach(challenge => console.log(`Overcoming challenge: ${challenge}`));
+  while (challenges.length) {
+    challenges.forEach((challenge) =>
+      console.log(`Overcoming challenge: ${challenge}`)
+    );
 
-        if (goals.some(goal => !isGoalAchieved(goal))) goals.forEach(goal => console.log("Striving for goal: ${goal}"));
-        else return celebrateSuccess();
+    if (goals.some((goal) => !isGoalAchieved(goal)))
+      goals.forEach((goal) => console.log("Striving for goal: ${goal}"));
+    else return celebrateSuccess();
 
-        if (newChallengesArise()) brainstormSolutions();
-        adaptToChange();
-    }
+    if (newChallengesArise()) brainstormSolutions();
+    adaptToChange();
+  }
 }
 
 achieveTheImpossible();
@@ -94,7 +96,6 @@ achieveTheImpossible();
     <img src="https://i1.wp.com/img.olhardigital.com.br/wp-content/uploads/2023/03/editor-de-codigo-fonte-replit.png?resize=780,470" alt="replit-icon" width="60" height="50"/>
 </p>
 
-
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
     
@@ -107,8 +108,7 @@ achieveTheImpossible();
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight" alt="prittoruban" /> </p>
 <p align="center"> <a href="https://twitter.com/prittoruban" target="blank"><img src="https://img.shields.io/twitter/follow/prittoruban?logo=twitter&style=for-the-badge" alt="prittoruban" /></a> </p>
 
-
-<img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/waves.svg" >
+<img src="./waves.svg" >
 
 <!---
 
@@ -126,4 +126,3 @@ achieveTheImpossible();
 </details>
 
 -->
-
