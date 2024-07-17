@@ -1,3 +1,80 @@
+
+# 👋 Hi there! I'm R. Pritto Ruban 
+
+**Aspiring Software Engineer | Freelancer | Competitive Programmer** 
+
+---
+
+### 🎯 About Me
+In love with creative problem-solving and building things that make a difference. Currently pursuing my Bachelor of Engineering in Computer Science and specializing in Cyber Security at R.M.K College of Engineering and Technology, Chennai. I thrive on challenges and am always striving, adapting, and celebrating successes along the way.
+
+---
+
+### 📚 Education
+**R.M.K College of Engineering and Technology**  
+Bachelor of Engineering in Computer Science  
+**Specialization**: Cyber Security  
+**Expected Graduation**: May 2027  
+Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
+
+---
+
+### 💼 Experience
+**Freelancer | Remote**  
+*Jan 2024 – Present*  
+- Created responsive websites and web apps for clients using HTML, CSS, JavaScript, React, and Angular.
+- Developed dynamic backends with Node.js and Express.
+- Integrated RESTful APIs to enhance web functionality.
+- Ensured optimal user experience and accessibility.
+
+**Open Source Contributor | Remote**  
+*2024 – Present*  
+- Actively contributing to open-source projects.
+- Collaborating with the community to learn new technologies and improve existing ones.
+
+---
+
+### 🛠️ My Skills
+- **Languages**: JavaScript, TypeScript, Python, Java, C++, SQL
+- **Web Development**: HTML, CSS, React, Angular, Node.js, Express.js, MongoDB, MySQL, PostgreSQL
+- **Tools & Libraries**: Git, GitHub, VSCode, Postman, Insomnia, MongoDB Atlas, Prisma, GraphQL
+- **Frameworks**: Next.js, Tailwind CSS
+---
+
+### 💡 Projects
+#### [MERN Blog App](https://github.com/PrittoRuban/MERN_Blog)
+A full-stack web application developed using MongoDB, Express.js, React.js, Node.js, and Tailwind CSS.
+- **Features**: Admin functionality, user management, JWT authentication, responsive design.
+- **Technologies Used**: MERN stack, React Redux, JWT, Tailwind CSS
+
+---
+
+### 🏆 Achievements
+- Solved around **3000 problems** across various coding platforms like [Leetcode](https://leetcode.com/u/prittoruban/), [GeeksforGeeks](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
+- **1500+ Programs solved** in SkillRack and earned **20+ Certificates**.
+
+---
+
+### 📫 Contact Me
+- **Email**: prittoruban0609@gmail.com
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/prittoruban)
+- **GitHub**: [Follow me](https://github.com/PrittoRuban)
+- **LinkTree**: [Explore more](https://linktr.ee/prittoruban)
+
+---
+
+### 🌟 Let's Connect
+If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to reach out. Let's build something amazing together!
+
+---
+
+**Inspiration to Innovate** | **Passion to Succeed** | **Dedication to Mastery**
+
+---
+
+
+
+
 <h1 align="center">
     Hi there 👋 It's me Pritto Ruban
     <p><img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
