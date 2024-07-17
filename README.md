@@ -28,7 +28,7 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 - Ensured optimal user experience and accessibility.
 
 **Open Source Contributor | Remote**  
-*2024 – Present*  
+*Jun 2024 – Present*  
 - Actively contributing to open-source projects.
 - Collaborating with the community to learn new technologies and improve existing ones.
 
