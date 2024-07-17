@@ -10,7 +10,7 @@
 - 🌱 _I’m currently learning **DSA** and Persuing my **B.E degree**..._
 - 💞️ _I wish to explore all **Technologies**...._
 - 💖 _Loves to learn new things_
-- 📫 _How to reach me **prittoruban@gmail.com**😉_
+- 📫 _How to reach me **prittoruban0609@gmail.com**😉_
 
 <p align="left"><b>1500+ Programs solved in SkillRack and 20+ Certificates 🏆</b></p>
 
