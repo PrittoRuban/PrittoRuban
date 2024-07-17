@@ -1,7 +1,7 @@
 
-# 👋 Hi there! I'm R. Pritto Ruban 
+# <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/> Hi there! I'm R. Pritto Ruban 
 
-**Aspiring Software Engineer | Freelancer | Competitive Programmer** 
+**Aspiring Software Engineer | Freelancer | Competitive Programmer | [My Website!](https://prittoruban.vercel.app/)** 
 
 ---
 
@@ -68,12 +68,15 @@ If you're looking for a passionate developer, have a project in mind, or just wa
 
 ---
 
-**Inspiration to Innovate** | **Passion to Succeed** | **Dedication to Mastery**
-
----
+<h3 align="center">Inspiration to Innovate | Passion to Succeed | Dedication to Mastery</h3>
 
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=tokyonight" alt="prittoruban" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
 
+
+
+<!---
 
 <h1 align="center">
     Hi there 👋 It's me Pritto Ruban
@@ -187,7 +190,7 @@ achieveTheImpossible();
 
 <img src="./waves.svg" >
 
-<!---
+
 
 <details align="center">
 <summary> Click for more Information </summary>
