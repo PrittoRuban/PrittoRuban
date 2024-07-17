@@ -51,7 +51,7 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 
 ### 🏆 Achievements
 - Solved around **3000 problems** across various coding platforms like [Leetcode](https://leetcode.com/u/prittoruban/), [GeeksforGeeks](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
-- **1500+ Programs solved** in SkillRack and earned **20+ Certificates**.
+- **2000+ Programs solved** in SkillRack and earned **20+ Certificates**.
 
 ---
 
