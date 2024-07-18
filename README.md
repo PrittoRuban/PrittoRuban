@@ -6,7 +6,7 @@
 ---
 
 ### 🎯 About Me
-In love with creative problem-solving and building things that make a difference. Currently pursuing my Bachelor of Engineering in Computer Science and specializing in Cyber Security at R.M.K College of Engineering and Technology, Chennai. I thrive on challenges and am always striving, adapting, and celebrating successes along the way.
+In love with creative problem-solving and building things that make a difference, I am pursuing my Bachelor of Engineering in Computer Science and specializing in Cyber Security at R.M.K College of Engineering and Technology, Chennai. I thrive on challenges and am always striving, adapting, and celebrating successes along the way.
 
 ---
 
