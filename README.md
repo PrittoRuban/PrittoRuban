@@ -20,17 +20,25 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 ---
 
 ### 💼 Experience
+**Technical Content Engineer Intern @kalvium | Remote**  
+*Jul 2024 – Present*  
+- Create comprehensive technical content and documentation.
+- Collaborate with cross-functional teams to ensure accuracy and relevance of content.
+- Facilitate learning and development through well-structured educational materials.
+- Integrate feedback to continuously improve content quality.
+- Review and update learning content to keep it current and effective.
+  
 **Freelancer | Remote**  
 *Jan 2024 – Present*  
-- Created responsive websites and web apps for clients using HTML, CSS, JavaScript, React, and Angular.
-- Developed dynamic backends with Node.js and Express.
-- Integrated RESTful APIs to enhance web functionality.
-- Ensured optimal user experience and accessibility.
+- Create responsive websites and web apps for clients using HTML, CSS, JavaScript, React, and Angular.
+- Develop dynamic backends with Node.js and Express.
+- Integrate RESTful APIs to enhance web functionality.
+- Ensure optimal user experience and accessibility.
 
 **Open Source Contributor | Remote**  
 *Jun 2024 – Present*  
-- Actively contributing to open-source projects.
-- Collaborating with the community to learn new technologies and improve existing ones.
+- Actively contribute to open-source projects.
+- Collaborate with the community to learn new technologies and improve existing ones.
 
 ---
 
