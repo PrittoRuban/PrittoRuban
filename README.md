@@ -84,15 +84,17 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 ---
 
 ### 🌟 Let's Connect
-If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to reach out. Let's build something amazing together!
+If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to [reach out⇗](https://linktr.ee/prittoruban). Let's build something amazing together!
 
 ---
 
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=algolia" alt="prittoruban" /> </p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Inspiration+to+Innovate+💡;Passion+to+Succeed+🎓;Dedication+to+Mastery+🔍&font=Pacifico&center=true&height=50&width=600&vCenter=true" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=algolia" alt="prittoruban" /> </p>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal" /> </p>
+
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
 
 
 
