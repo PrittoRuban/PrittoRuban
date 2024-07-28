@@ -21,7 +21,7 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 💼 Experience
-**Technical Content Engineer Intern @kalvium | Coimbatore, India (Remote)**  
+**Technical Content Engineer Intern [@Kalvium](https://kalvium.com/) | Coimbatore, India (Remote)**  
 *Jul 2024 – Present*  
 - Create comprehensive technical content and documentation.
 - Collaborate with cross-functional teams to ensure the accuracy and relevance of content.
