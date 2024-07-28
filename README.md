@@ -1,14 +1,15 @@
 
 # <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/> Hi there! I'm R. Pritto Ruban  <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
 
+
 **Aspiring Software Engineer | Freelancer | Competitive Programmer | [My Website!](https://prittoruban.vercel.app/)** 
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🎯 About Me
 In love with creative problem-solving and building things that make a difference, I am pursuing my Bachelor of Engineering in Computer Science and specializing in Cyber Security at R.M.K College of Engineering and Technology, Chennai. I thrive on challenges and am always striving, adapting, and celebrating successes along the way.
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 📚 Education
 **R.M.K College of Engineering and Technology**  
@@ -17,15 +18,15 @@ Bachelor of Engineering in Computer Science
 **Expected Graduation**: May 2027  
 Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 💼 Experience
 **Technical Content Engineer Intern @kalvium | Coimbatore, India (Remote)**  
 *Jul 2024 – Present*  
 - Create comprehensive technical content and documentation.
-- Collaborate with cross-functional teams to ensure accuracy and relevance of content.
+- Collaborate with cross-functional teams to ensure the accuracy and relevance of content.
 - Facilitate learning and development through well-structured educational materials.
-- Integrate feedback to continuously improve content quality.
+- Integrate feedback to improve content quality continuously.
 - Review and update learning content to keep it current and effective.
   
 **Freelancer | Remote**  
@@ -40,14 +41,14 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 - Actively contribute to open-source projects.
 - Collaborate with the community to learn new technologies and improve existing ones.
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🛠️ My Skills
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, SQL
 - **Web Development**: HTML, CSS, React, Angular, Node.js, Express.js, MongoDB, MySQL, PostgreSQL
 - **Tools & Libraries**: Git, GitHub, VSCode, Postman, Insomnia, MongoDB Atlas, Prisma, GraphQL
 - **Frameworks**: Next.js, Tailwind CSS
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 💡 Projects
 #### [MERN Blog App](https://github.com/PrittoRuban/MERN_Blog)
@@ -55,7 +56,7 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 - **Features**: Admin functionality, user management, JWT authentication, responsive design.
 - **Technologies Used**: MERN stack, React Redux, JWT, Tailwind CSS
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🏆 Achievements
 - **Coding Contest**
@@ -73,7 +74,7 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 - Solved around **3000 problems** across various coding platforms like [Leetcode](https://leetcode.com/u/prittoruban/), [GeeksforGeeks](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
 - **2000+ Programs solved** in SkillRack and earned **20+ Certificates**.
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 📫 Contact Me
 - **Email**: prittoruban0609@gmail.com
@@ -81,12 +82,12 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 - **GitHub**: [Follow me](https://github.com/PrittoRuban)
 - **LinkTree**: [Explore more](https://linktr.ee/prittoruban)
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🌟 Let's Connect
 If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to [reach out⇗](https://linktr.ee/prittoruban). Let's build something amazing together!
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Inspiration+to+Innovate+💡;Passion+to+Succeed+🎓;Dedication+to+Mastery+🔍&font=Pacifico&center=true&height=50&width=600&vCenter=true" /> </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=algolia" alt="prittoruban" /> </p>
@@ -94,7 +95,7 @@ If you're looking for a passionate developer, have a project in mind, or just wa
 
 [//]: <> (<p align="center"> <img src="https://leetcard.jacoblin.cool/prittoruban?ext=contest"/> </p>)
 
----
+<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
 
