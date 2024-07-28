@@ -51,7 +51,7 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 💡 Projects
-#### [MERN Blog App](https://github.com/PrittoRuban/MERN_Blog)
+#### [MERN Blog App ⇗](https://github.com/PrittoRuban/MERN_Blog)
 A full-stack web application developed using MongoDB, Express.js, React.js, Node.js, and Tailwind CSS.
 - **Features**: Admin functionality, user management, JWT authentication, responsive design.
 - **Technologies Used**: MERN stack, React Redux, JWT, Tailwind CSS
@@ -65,27 +65,27 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 - **Web Design**
   - Designed an e-commerce website and secured 2nd place among participants from colleges across Chennai.
   - **Issued by**: Rajalakshmi Engineering College · Feb 2024
-  - **Project**: [E-Commerce Website](https://github.com/PrittoRuban/E-Commerce_Website)
+  - **Project**: [E-Commerce Website ⇗](https://github.com/PrittoRuban/E-Commerce_Website)
 
 - **Web Design using AI tools**
   - Secured first place in a web design using AI tools event, competing with participants from colleges across Chennai.
   - **Issued by**: Sairam Institute of Technology · Feb 2024
     
-- Solved around **3000 problems** across various coding platforms like [Leetcode](https://leetcode.com/u/prittoruban/), [GeeksforGeeks](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
+- Solved around **3000 problems** across various coding platforms like [Leetcode ⇗](https://leetcode.com/u/prittoruban/), [GeeksforGeeks ⇗](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank ⇗](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack ⇗](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
 - **2000+ Programs solved** in SkillRack and earned **20+ Certificates**.
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 📫 Contact Me
 - **Email**: prittoruban0609@gmail.com
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/prittoruban)
-- **GitHub**: [Follow me](https://github.com/PrittoRuban)
-- **LinkTree**: [Explore more](https://linktr.ee/prittoruban)
+- **LinkedIn**: [Connect with me ⇗](https://linkedin.com/in/prittoruban)
+- **GitHub**: [Follow me ⇗](https://github.com/PrittoRuban)
+- **LinkTree**: [Explore more ⇗](https://linktr.ee/prittoruban)
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🌟 Let's Connect
-If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to [reach out⇗](https://linktr.ee/prittoruban). Let's build something amazing together!
+If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to [reach out ⇗](https://linktr.ee/prittoruban). Let's build something amazing together!
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
