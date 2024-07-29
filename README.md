@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/> Hi there! I'm R. Pritto Ruban  <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
+# Hi there! <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/> I'm R. Pritto Ruban  <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
 
 
 **Aspiring Software Engineer | Freelancer | Competitive Programmer | [My Website!](https://prittoruban.vercel.app/)** 
