@@ -57,8 +57,18 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🏆 Achievements
+
+- **Coding Contest**
+  - Secured 1st place in the Coding Contest at SRM Eswari Engineering College. Aug 2024
+  - Demonstrated strong problem-solving skills and algorithmic thinking by efficiently tackling complex coding challenges within the given time frame.
+
+- **Paper Presentation**
+  - Achieved 2nd place in the Paper Presentation at SRM Eswari Engineering College. Aug 2024
+  - Delivered a comprehensive and well-researched presentation, effectively communicating complex ideas and engaging the audience.
+    
 - **Coding Contest**
   - First place in a coding event at RMK College of Engineering and Technology. Apr 2024
+  - Inter-College Event: Competed against participants from all 1st year departments.
 
 - **Web Design**
   - Designed an e-commerce website and secured 2nd place among participants from colleges across Chennai.
@@ -69,7 +79,7 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
   - Secured first place in a web design using AI tools event, competing with participants from colleges across Chennai.
   - **Issued by**: Sairam Institute of Technology · Feb 2024
     
-- Solved around **3000 problems** across various coding platforms like [Leetcode ⇗](https://leetcode.com/u/prittoruban/), [GeeksforGeeks ⇗](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank ⇗](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack ⇗](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
+- Solved around **3000 problems** across various coding platforms like [Leetcode ⇗](https://leetcode.com/u/prittoruban/) , [GeeksforGeeks ⇗](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank ⇗](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack ⇗](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
 - **2000+ Programs solved** in SkillRack and earned **20+ Certificates**.
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
