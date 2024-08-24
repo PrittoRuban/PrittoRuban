@@ -30,7 +30,7 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
   
 **Freelancer | Remote**  
 *Jan 2024 – Present*  
-- Create responsive websites and web apps for clients using HTML, CSS, JavaScript, React, and Angular.
+- Create responsive websites and web apps for clients using HTML, CSS, JavaScript, React, and Nextjs.
 - Develop dynamic backends with Node.js and Express.
 - Integrate RESTful APIs to enhance web functionality.
 - Ensure optimal user experience and accessibility.
