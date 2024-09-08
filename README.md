@@ -59,7 +59,7 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 
 ### 🏆 Achievements
 
-- **Hackathon - [Full Stack Development ⇗](https://reservenow.vercel.app/) Hackathon**
+- **Hackathon - [Full Stack Development ⇗](https://reservenow.vercel.app/)**
   - Won the Overall Championship at Sairam Engineering College Hackathon. Aug 2024.
   - Developed an innovative restaurant reservation system featuring real-time order updates, AI chatbot integration, and secure authentication using modern web technologies.
 
