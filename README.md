@@ -228,8 +228,6 @@ achieveTheImpossible();
 
 <img src="./waves.svg" >
 
-
-
 <details align="center">
 <summary> Click for more Information </summary>
 
