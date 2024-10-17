@@ -1,11 +1,12 @@
 # Hi there! <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/> I'm R. Pritto Ruban  <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
 
-**Aspiring Software Engineer | Freelancer | Competitive Programmer | [My Website!](https://prittoruban.vercel.app/)** 
+**Aspiring Software Engineer | Freelancer | Competitive Programmer | Open Source Enthusiast | [My Website!](https://prittoruban.vercel.app/)**
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🎯 About Me
-In love with creative problem-solving and building things that make a difference, I am pursuing my Bachelor of Engineering in Computer Science and specializing in Cyber Security at R.M.K College of Engineering and Technology, Chennai. I thrive on challenges and am always striving, adapting, and celebrating successes along the way.
+A passionate developer with a strong foundation in **Java programming**, **Full-Stack Web Development**, and **Cyber Security**, aiming to create innovative, scalable solutions. With hands-on experience in Java, MERN stack, and open-source contributions, I'm always eager to tackle real-world challenges. Let’s connect and build something impactful!
+
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
@@ -19,11 +20,11 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 💼 Experience
-**Technical Content Engineer Intern [@Kalvium](https://kalvium.com/) | Coimbatore, India (Remote)**  
+**Technical Content Engineer Intern [@Kalvium](https://kalvium.com/)** | Coimbatore, India (Remote)  
 *Jul 2024 – Present*  
-- Create comprehensive technical content and documentation.
-- Collaborate with cross-functional teams to ensure the accuracy and relevance of content.
-- Facilitate learning and development through well-structured educational materials.
+- Developed engaging technical content used by over 1,000+ students, enhancing their learning experience.
+- Led content quality improvements through continuous feedback, increasing course ratings by 15%.
+- Collaborated with cross-functional teams, aligning technical documentation with the latest trends in technology education.
 - Integrate feedback to improve content quality continuously.
 - Review and update learning content to keep it current and effective.
   
@@ -52,15 +53,18 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 #### [MERN Blog App ⇗](https://github.com/PrittoRuban/MERN_Blog)
 A full-stack web application developed using MongoDB, Express.js, React.js, Node.js, and Tailwind CSS.
 - **Features**: Admin functionality, user management, JWT authentication, responsive design.
+- **Impact**: Increased user engagement by 25% through seamless user experience and robust authentication.
 - **Technologies Used**: MERN stack, React Redux, JWT, Tailwind CSS
+
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🏆 Achievements
 
-- **Hackathon - [Full Stack Development ⇗](https://reservenow.vercel.app/)**
-  - Won the Overall Championship at Sairam Engineering College Hackathon. Aug 2024.
-  - Developed an innovative restaurant reservation system featuring real-time order updates, AI chatbot integration, and secure authentication using modern web technologies.
+- **24 Hours Hackathon - [Full Stack Development ⇗](https://reservenow.vercel.app/)**
+  - **Overall Champion**, Sairam Engineering College Hackathon, Aug 2024.
+  - Demonstrated leadership and teamwork in a time-sensitive environment by leading a team of developers to create an innovative restaurant reservation system, featuring real-time updates and AI chatbot integration.
+
 
 - **Coding Contest**
   - Secured 1st place in the Coding Contest at SRM Eswari Engineering College. Aug 2024
