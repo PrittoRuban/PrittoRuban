@@ -43,10 +43,10 @@ Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🛠️ My Skills
-- **Languages**: JavaScript, TypeScript, Python, Java, C++, SQL
-- **Web Development**: HTML, CSS, React, Angular, Node.js, Express.js, MongoDB, MySQL, PostgreSQL
-- **Tools & Libraries**: Git, GitHub, VSCode, Postman, Insomnia, MongoDB Atlas, Prisma, GraphQL
-- **Frameworks**: Next.js, Tailwind CSS
+- **Languages**: Java (Advanced), TypeScript (Intermediate), SQL (Intermediate), C++ (Beginner), Python(Beginner)
+- **Web Development**: HTML, CSS, React (Intermediate), Node.js (Intermediate), Express.js (Intermediate), Databases(Intermediate)
+- **Tools & Libraries**: Git (Intermediate), GitHub, VSCode, Postman, Insomnia, MongoDB Atlas 
+
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 💡 Projects
