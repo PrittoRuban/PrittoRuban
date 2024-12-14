@@ -1,12 +1,11 @@
 # Hi there! <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/> I'm R. Pritto Ruban  <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
 
-**Passionate Engineer | Freelancer | Competitive Programmer | Open Source Enthusiast | [My Website!](https://prittoruban.vercel.app/)**
+**Passionate Engineer | Freelancer | Competitive Programmer | Open Source Enthusiast | [Visit My Website!](https://prittoruban.vercel.app/)**
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 🎯 About Me
-A passionate developer with a strong foundation in **Java programming**, **Full-Stack Web Development**, and **Cyber Security**, aiming to create innovative, scalable solutions. With hands-on experience in Java, MERN stack, and open-source contributions, I'm always eager to tackle real-world challenges. Let’s connect and build something impactful!
-
+I’m a passionate developer with a strong foundation in **Java**, **Full-Stack Web Development**, and **Cyber Security**. I love contributing to **open-source** projects and have hands-on experience with the **MERN stack** and **Java Development**. Always eager to tackle real-world challenges and create impactful solutions. 
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
@@ -18,26 +17,28 @@ Bachelor of Engineering in Computer Science
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
-### 💼 Experience
-**Technical Content Engineer Intern [@Kalvium](https://kalvium.com/)** | Coimbatore, India (Remote)  
-*Jul 2024 – Present*  
-- Developed engaging technical content used by over 1,000+ students, enhancing their learning experience.
-- Led content quality improvements through continuous feedback, increasing course ratings by 15%.
-- Collaborated with cross-functional teams, aligning technical documentation with the latest trends in technology education.
-- Integrate feedback to improve content quality continuously.
-- Review and update learning content to keep it current and effective.
-  
-**Freelancer | Remote**  
-*Jan 2024 – Present*  
-- Create responsive websites and web apps for clients using HTML, CSS, JavaScript, React, and Nextjs.
-- Develop dynamic backends with Node.js and Express.
-- Integrate RESTful APIs to enhance web functionality.
-- Ensure optimal user experience and accessibility.
 
-**Open Source Contributor | Remote**  
+### 💼 Experience
+
+**Technical Content Engineer Intern** [Kalvium](https://kalvium.com/) | Coimbatore, India (Remote)  
+*Jul 2024 – Present*  
+- Designed and delivered technical content impacting over **1,000+ students**, elevating engagement and comprehension.  
+- Spearheaded content optimization strategies, achieving a **15% improvement in course ratings** through continuous feedback loops.  
+- Collaborated with cross-functional teams to align learning materials with emerging trends in **technology education**.  
+
+**Freelancer** | Remote  
+*Jan 2024 – Present*  
+- Built **responsive and dynamic websites** for clients, leveraging frameworks like **React** and **Next.js** for scalable solutions.  
+- Developed robust backends using **Node.js** and **Express**, integrating **RESTful APIs** for seamless functionality.  
+- Focused on delivering **user-first designs** with optimal performance, accessibility, and cross-browser compatibility.  
+
+<!---
+**Open Source Contributor** | Remote  
 *Jun 2024 – Present*  
-- Actively contribute to open-source projects.
-- Collaborate with the community to learn new technologies and improve existing ones.
+- Contributed to **high-impact open-source projects**, improving software reliability and expanding feature sets.  
+- Collaborated with global communities to enhance technical solutions and refine coding practices.  
+- Continuously explored and implemented **cutting-edge technologies** to add value to open-source ecosystems.  
+--->
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
@@ -58,49 +59,44 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
-### 🏆 Achievements
+### 🏆 Achievements  
 
-- **24 Hours Hackathon - [Full Stack Development ⇗](https://reservenow.vercel.app/)**
-  - **Overall Champion**, Sairam Engineering College Hackathon, Aug 2024.
-  - Demonstrated leadership and teamwork in a time-sensitive environment by leading a team of developers to create an innovative restaurant reservation system, featuring real-time updates and AI chatbot integration.
+- **Overall Champion - Full Stack Development**  
+  **Sairam Engineering College Hackathon**, Aug 2024  
+  - Led a team to build a **restaurant reservation system** with real-time updates and AI chatbot integration.  
+  - **Live Demo:** [ReserveNow ⇗](https://reservenow.vercel.app/)  
 
+- **1st Place - Coding Contests**  
+  - **SRM Eswari Engineering College**, Aug 2024: Solved complex problems under time constraints.  
+  - **RMK College of Engineering and Technology**, Apr 2024: Top performer in an inter-college event.  
 
-- **Coding Contest**
-  - Secured 1st place in the Coding Contest at SRM Eswari Engineering College. Aug 2024
-  - Demonstrated strong problem-solving skills and algorithmic thinking by efficiently tackling complex coding challenges within the given time frame.
+- **2nd Place**  
+  - **Paper Presentation**, SRM Eswari Engineering College, Aug 2024: Presented advanced technical concepts effectively.  
+  - **Web Design Challenge**, Rajalakshmi Engineering College, Feb 2024: Designed an award-winning **e-commerce website** ([GitHub ⇗](https://github.com/PrittoRuban/E-Commerce_Website)).  
 
-- **Paper Presentation**
-  - Achieved 2nd place in the Paper Presentation at SRM Eswari Engineering College. Aug 2024
-  - Delivered a comprehensive and well-researched presentation, effectively communicating complex ideas and engaging the audience.
-    
-- **Coding Contest**
-  - First place in a coding event at RMK College of Engineering and Technology. Apr 2024
-  - Inter-College Event: Competed against participants from all 1st year departments.
+- **1st Place - Web Design Using AI Tools**  
+  **Sairam Institute of Technology**, Feb 2024  
+  - Won for innovative use of AI-powered design tools.  
 
-- **Web Design**
-  - Designed an e-commerce website and secured 2nd place among participants from colleges across Chennai.
-  - **Issued by**: Rajalakshmi Engineering College · Feb 2024
-  - **Project**: [E-Commerce Website ⇗](https://github.com/PrittoRuban/E-Commerce_Website)
+- **Competitive Programming**  
+  - Solved **3,000+ problems** across [LeetCode ⇗](https://leetcode.com/u/prittoruban/), [GeeksforGeeks ⇗](https://www.geeksforgeeks.org/user/prittoruban/), and [HackerRank ⇗](https://www.hackerrank.com/profile/PrittoRuban).  
+  - Completed **2,000+ programs** in **SkillRack**, earning **20+ certifications**.  
 
-- **Web Design using AI tools**
-  - Secured first place in a web design using AI tools event, competing with participants from colleges across Chennai.
-  - **Issued by**: Sairam Institute of Technology · Feb 2024
-    
-- Solved around **3000 problems** across various coding platforms like [Leetcode ⇗](https://leetcode.com/u/prittoruban/) , [GeeksforGeeks ⇗](https://www.geeksforgeeks.org/user/prittoruban/), [Hackerrank ⇗](https://www.hackerrank.com/profile/PrittoRuban), and [Skillrack ⇗](https://www.skillrack.com/faces/resume.xhtml?id=438898&key=61d8fe7f74d005af56334c549cb369255ccf8777).
-- **2000+ Programs solved** in SkillRack and earned **20+ Certificates**.
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
-### 📫 Contact Me
-- **Email**: prittoprogrammer@gmail.com
-- **LinkedIn**: [Connect with me ⇗](https://linkedin.com/in/prittoruban)
-- **GitHub**: [Follow me ⇗](https://github.com/PrittoRuban)
-- **LinkTree**: [Explore more ⇗](https://linktr.ee/prittoruban)
+### 📫 Contact Me  
+- **Email**: [prittoprogrammer@gmail.com](mailto:prittoprogrammer@gmail.com)  
+- **LinkedIn**: [Connect with me ⇗](https://linkedin.com/in/prittoruban)  
+- **GitHub**: [Follow me ⇗](https://github.com/PrittoRuban)  
+- **LinkTree**: [Explore more ⇗](https://linktr.ee/prittoruban)  
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
-### 🌟 Let's Connect
-If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to [reach out ⇗](https://linktr.ee/prittoruban). Let's build something amazing together!
+### 🌟 Let’s Connect  
+Looking for a passionate developer? Have a project idea? Let’s connect and create something exceptional! 
+Reach out in any way convenient for you-email, LinkedIn, GitHub, or more! I’ll reply to you anywhere. Start here: [LinkTree ⇗](https://linktr.ee/prittoruban).  
+
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
