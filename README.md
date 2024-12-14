@@ -93,7 +93,7 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 ### 📫 Contact Me
-- **Email**: prittoruban0609@gmail.com
+- **Email**: prittoprogrammer@gmail.com
 - **LinkedIn**: [Connect with me ⇗](https://linkedin.com/in/prittoruban)
 - **GitHub**: [Follow me ⇗](https://github.com/PrittoRuban)
 - **LinkTree**: [Explore more ⇗](https://linktr.ee/prittoruban)
