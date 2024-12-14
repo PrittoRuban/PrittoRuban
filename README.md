@@ -15,7 +15,6 @@ A passionate developer with a strong foundation in **Java programming**, **Full-
 Bachelor of Engineering in Computer Science  
 **Specialization**: Cyber Security  
 **Expected Graduation**: May 2027  
-Achieved 87% in my 12th grade at Vidya Mandir Matric Hr. Sec. School.
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
