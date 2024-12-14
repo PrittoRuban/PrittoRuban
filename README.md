@@ -105,7 +105,9 @@ If you're looking for a passionate developer, have a project in mind, or just wa
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Inspiration+to+Innovate+💡;Passion+to+Succeed+🎓;Dedication+to+Mastery+🔍&font=Pacifico&center=true&height=50&width=600&vCenter=true" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=algolia" alt="prittoruban" /> </p>
+
+[//]: <> (<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PrittoRuban&theme=algolia" alt="prittoruban" /> </p>)
+
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal" /> </p>
 
 
