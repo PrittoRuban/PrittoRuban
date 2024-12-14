@@ -9,14 +9,6 @@ I’m a passionate developer with a strong foundation in **Java**, **Full-Stack 
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
-### 📚 Education
-**R.M.K College of Engineering and Technology**  
-Bachelor of Engineering in Computer Science  
-**Specialization**: Cyber Security  
-**Expected Graduation**: May 2027  
-
-<img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
-
 
 ### 💼 Experience
 
@@ -85,11 +77,16 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
-### 📫 Contact Me  
-- **Email**: [prittoprogrammer@gmail.com](mailto:prittoprogrammer@gmail.com)  
-- **LinkedIn**: [Connect with me ⇗](https://linkedin.com/in/prittoruban)  
-- **GitHub**: [Follow me ⇗](https://github.com/PrittoRuban)  
-- **LinkTree**: [Explore more ⇗](https://linktr.ee/prittoruban)  
+### 📫 Contact Me & Education
+
+| **Contact Me** | **Education** |
+|----------------|---------------|
+| **Email**: [prittoprogrammer@gmail.com](mailto:prittoprogrammer@gmail.com) | **R.M.K College of Engineering and Technology** |
+| **LinkedIn**: [Connect with me ⇗](https://linkedin.com/in/prittoruban) | **Bachelor of Engineering in Computer Science** |
+| **GitHub**: [Follow me ⇗](https://github.com/PrittoRuban) | **Specialization**: Cyber Security |
+| **LinkTree**: [Explore more ⇗](https://linktr.ee/prittoruban) | **Expected Graduation**: May 2027 |
+
+
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
