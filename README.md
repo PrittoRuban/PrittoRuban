@@ -13,7 +13,7 @@ I’m a passionate developer with a strong foundation in **Java**, **Full-Stack 
 ### 💼 Experience
 
 **Technical Content Engineer Intern** [Kalvium](https://kalvium.com/) | Coimbatore, India (Remote)  
-*Jul 2024 – Present*  
+*Jul 2024 – Oct 2024*  
 - Designed and delivered technical content impacting over **1,000+ students**, elevating engagement and comprehension.  
 - Spearheaded content optimization strategies, achieving a **15% improvement in course ratings** through continuous feedback loops.  
 - Collaborated with cross-functional teams to align learning materials with emerging trends in **technology education**.  
