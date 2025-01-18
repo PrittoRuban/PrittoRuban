@@ -90,7 +90,7 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 
 ### 🌟 Let’s Connect  
 Looking for a passionate developer? Have a project idea? Let’s connect and create something exceptional! 
-Reach out in any way convenient for you-email, LinkedIn, GitHub, or more! I’ll reply to you anywhere. Start here: [LinkTree ⇗](https://linktr.ee/prittoruban).  
+Reach out in any way convenient for you-email, LinkedIn, GitHub, or more! I’ll reply to you anywhere.
 
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
