@@ -56,7 +56,6 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 - **Overall Champion - Full Stack Development**  
   **Sairam Engineering College Hackathon**, Aug 2024  
   - Led a team to build a **restaurant reservation system** with real-time updates and AI chatbot integration.  
-  - **Live Demo:** [ReserveNow ⇗](https://reservenow.vercel.app/)  
 
 - **1st Place - Coding Contests**  
   - **SRM Eswari Engineering College**, Aug 2024: Solved complex problems under time constraints.  
@@ -84,7 +83,6 @@ A full-stack web application developed using MongoDB, Express.js, React.js, Node
 | **Email**: [prittoprogrammer@gmail.com](mailto:prittoprogrammer@gmail.com) | **R.M.K College of Engineering and Technology** |
 | **LinkedIn**: [Connect with me ⇗](https://linkedin.com/in/prittoruban) | **Bachelor of Engineering in Computer Science** |
 | **GitHub**: [Follow me ⇗](https://github.com/PrittoRuban) | **Specialization**: Cyber Security |
-| **LinkTree**: [Explore more ⇗](https://linktr.ee/prittoruban) | **Expected Graduation**: May 2027 |
 
 
 
