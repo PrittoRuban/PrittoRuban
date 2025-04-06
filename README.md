@@ -1,3 +1,237 @@
+## Hello World <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/>, I'm Pritto Ruban | Engineering the Future <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
+
+[![Website](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prittoruban.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prittoruban/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prittoruban)
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+## 💭 Philosophy
+
+> "The best code is no code at all. Every line of code you write is code that needs to be tested, documented and maintained." - *Jeff Atwood*
+
+I believe in creating elegant solutions that solve complex problems with minimal complexity. My development approach centers on three core principles:
+
+- **Scalability First**: Building systems that grow gracefully with user demand
+- **Security by Design**: Integrating security practices from the foundation up
+- **Developer Experience**: Creating maintainable codebases that future developers will thank you for
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+## 🔍 Current Focus Areas
+
+```javascript
+const currentFocus = {
+  technologies: ["System Design", "Microservices Architecture", "Cloud Infrastructure"],
+  personalGrowth: ["Mentoring Junior Developers", "Open Source Contributions", "Technical Writing"],
+  interests: ["Zero Trust Security", "Distributed Systems", "Performance Optimization"]
+};
+```
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+## 🧠 Technical Problem Solving
+
+My approach to solving complex technical challenges:
+
+<table>
+  <tr>
+    <td align="center"><strong>🧩 Problem Decomposition</strong></td>
+    <td>Breaking complex problems into manageable components is my specialty. I approach each challenge systematically, identifying core issues before diving into implementation.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚡ Performance Optimization</strong></td>
+    <td>I'm obsessed with creating efficient systems - whether optimizing database queries, implementing caching strategies, or refactoring algorithms for efficiency.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔒 Security-Focused Development</strong></td>
+    <td>With my cybersecurity background, I integrate security at every development stage - from secure API design to preventing common vulnerabilities like XSS and CSRF attacks.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📊 Data-Driven Decisions</strong></td>
+    <td>I believe in measuring impact. My implementations always include metrics collection to validate improvements and guide future optimizations.</td>
+  </tr>
+</table>
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+## 🛠️ Code Quality & Engineering Excellence
+
+```
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+```
+
+My code demonstrates:
+
+- **Clean Architecture Principles**: Clear separation of concerns
+- **Comprehensive Test Coverage**: Unit, integration, and E2E tests
+- **Detailed Documentation**: Helping others understand my thought process
+- **Performance Benchmarking**: Data-backed optimization decisions
+- **Accessibility Compliance**: Inclusive experiences for all users
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+<!---
+
+## 💡 Featured Engineering Solutions
+
+### Security-First Authentication System
+
+Created a zero-trust authentication framework with:
+- JWT with rotating refresh tokens
+- Hardware-backed biometric integration
+- Real-time threat monitoring
+- Automated suspicious activity detection
+- 99.99% protection against common attack vectors
+
+### High-Performance Data Pipeline
+
+Built a scalable data processing system handling:
+- 1M+ events/second throughput
+- Sub-50ms end-to-end latency
+- Automatic failover with zero data loss
+- Dynamic scaling based on workload patterns
+- Comprehensive monitoring and alerting
+
+### Algorithmic Problem Solving
+
+Developed algorithmic solutions for:
+- Graph-based recommendation engines
+- Distributed consensus algorithms
+- Efficient text search and indexing
+- Location-based proximity calculations
+- Real-time data synchronization protocols
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+--->
+
+## 📚 System Design Knowledge
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Architecture-Microservices-green?style=flat-square" alt="Microservices"/>
+      <br/>
+      Event-driven systems, service meshes, domain-driven design
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Scalability-Horizontal_&_Vertical-blue?style=flat-square" alt="Scalability"/>
+      <br/>
+      Load balancing, sharding, caching strategies, CDN implementation
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Security-Defense_in_Depth-red?style=flat-square" alt="Security"/>
+      <br/>
+      OAuth 2.0, OIDC, encryption at rest/transit, penetration testing
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Data-Polyglot_Persistence-purple?style=flat-square" alt="Data"/>
+      <br/>
+      ACID vs BASE, NoSQL patterns, data warehousing, ETL pipelines
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Performance-Optimization-orange?style=flat-square" alt="Performance"/>
+      <br/>
+      Profiling, bottleneck analysis, lazy loading, connection pooling
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/DevOps-CI/CD_Pipelines-teal?style=flat-square" alt="DevOps"/>
+      <br/>
+      Infrastructure as code, automated testing, blue/green deployments
+    </td>
+  </tr>
+</table>
+
+<!---
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+
+
+## 🧪 Technical Experiments & Learning
+
+I believe in continuous experimentation and sharing knowledge:
+
+- **[System Design Chronicles](https://github.com/PrittoRuban/system-design-patterns)**: My documentation of scalable architecture patterns
+- **[Algorithm Visualizer](https://github.com/PrittoRuban/algorithm-visualizer)**: Interactive tool for understanding complex algorithms
+- **[Performance Testing Framework](https://github.com/PrittoRuban/performance-lab)**: Custom tools for benchmarking web applications
+- **[Security Sandbox](https://github.com/PrittoRuban/security-playground)**: Experiments with latest security protocols and vulnerability prevention
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+## 🌱 Open Source Contributions
+
+I actively contribute to the broader developer community:
+
+- **React Performance Utilities**: Created utilities for identifying render bottlenecks (250+ GitHub stars)
+- **MongoDB Data Migration Tools**: Contributed migration scripts for complex document transformations
+- **Java Security Framework**: Fixed critical vulnerabilities in authentication modules
+- **Accessibility Testing Tools**: Built plugins for automated WCAG compliance checking
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+## 📊 Technical Problem Solving Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+      <p>Solved 500+ algorithm challenges</p>
+      <p>Top 5% in global rankings</p>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/HackerRank-5★_Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+      <p>Gold badge in Problem Solving</p>
+      <p>Expert status in Java challenges</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/CodeSignal-Level_8-blue?style=for-the-badge&logo=codesignal&logoColor=white" alt="CodeSignal"/>
+      <p>Perfect scores in company challenges</p>
+      <p>Top performer in timed assessments</p>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/System_Design-Advanced-purple?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="System Design"/>
+      <p>Strong architectural thinking</p>
+      <p>Scalable & maintainable solutions</p>
+    </td>
+  </tr>
+</table>
+
+--->
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+## 📫 Connect With Me
+
+I'm always open to discussing technical challenges, architecture decisions, or collaboration opportunities:
+
+<p align="center">
+  <a href="mailto:prittoprogrammer@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/prittoruban"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://prittoruban.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-See_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<img height="50" width="100%" src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2484FF&size=32&center=true&vCenter=true&width=600&lines=Building+the+impossible;Engineering+the+future;Solving+problems+that+matter" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=The+best+way+to+predict+the+future+is+to+implement+it." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<!---
+
 # Hi there! <img src="https://raw.githubusercontent.com/PrittoRuban/PrittoRuban/master/img/wave.gif" width="30px" height="30px"/> I'm R. Pritto Ruban  <img src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/robot.gif" width="50px" height="50px"/> 
 
 **Passionate Engineer | Freelancer | Competitive Programmer | Open Source Enthusiast | [Visit My Website!](https://prittoruban.vercel.app/)**
@@ -24,13 +258,13 @@ I’m a passionate developer with a strong foundation in **Java**, **Full-Stack 
 - Developed robust backends using **Node.js** and **Express**, integrating **RESTful APIs** for seamless functionality.  
 - Focused on delivering **user-first designs** with optimal performance, accessibility, and cross-browser compatibility.  
 
-<!---
+
 **Open Source Contributor** | Remote  
 *Jun 2024 – Present*  
 - Contributed to **high-impact open-source projects**, improving software reliability and expanding feature sets.  
 - Collaborated with global communities to enhance technical solutions and refine coding practices.  
 - Continuously explored and implemented **cutting-edge technologies** to add value to open-source ecosystems.  
---->
+
 
 <img height=50 width=100% src="https://github.com/PrittoRuban/PrittoRuban/blob/main/img/divider.gif">
 
@@ -108,7 +342,7 @@ Reach out in any way convenient for you-email, LinkedIn, GitHub, or more! I’ll
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prittoruban&label=Profile%20views&color=0e75b6&style=flat" alt="prittoruban" /> </p>
 
-
+--->
 
 <!---
 
